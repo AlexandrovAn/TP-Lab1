@@ -11,7 +11,7 @@
 
 Функция _CalculateSquareSum_:
 ```
-код хуйни
+
 ```
 
 
